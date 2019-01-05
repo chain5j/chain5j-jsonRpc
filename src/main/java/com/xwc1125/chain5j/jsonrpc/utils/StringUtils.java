@@ -4,8 +4,9 @@ package com.xwc1125.chain5j.jsonrpc.utils;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  20:17 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 public class StringUtils {
     /**

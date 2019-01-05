@@ -17,8 +17,9 @@ import java.util.Scanner;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  11:12 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 public class RawResponseDeserializer extends StdDeserializer<Response> implements ResolvableDeserializer {
     private final JsonDeserializer<?> defaultDeserializer;

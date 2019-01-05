@@ -13,8 +13,9 @@ import java.util.concurrent.atomic.AtomicLong;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  11:08 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 public class Request<S, T extends Response> {
     private static AtomicLong nextId = new AtomicLong(0L);
@@ -30,11 +31,6 @@ public class Request<S, T extends Response> {
 
     /**
      * 请求
-     *
-     * @param method
-     * @param params
-     * @param rpcService
-     * @param type
      */
     public Request(String method, List<S> params, RpcService rpcService, Class<T> type) {
         this.method = method;

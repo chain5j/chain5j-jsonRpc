@@ -12,8 +12,9 @@ import java.io.IOException;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  11:16 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 public class KeepAsJsonDeserialzier extends JsonDeserializer<String> {
     public KeepAsJsonDeserialzier() {

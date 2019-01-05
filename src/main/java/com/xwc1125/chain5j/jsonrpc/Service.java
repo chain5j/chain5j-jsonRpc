@@ -16,8 +16,9 @@ import java.util.concurrent.CompletableFuture;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  11:11 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 public abstract class Service implements RpcService {
     protected final ObjectMapper objectMapper;

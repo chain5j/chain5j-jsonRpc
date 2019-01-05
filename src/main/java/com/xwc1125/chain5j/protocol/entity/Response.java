@@ -1,17 +1,18 @@
 package com.xwc1125.chain5j.protocol.entity;
 
-/**
- * Description: <br>
- *
- * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
- * @date 2019-01-04  11:08 <br>
- */
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.xwc1125.chain5j.protocol.deserializer.KeepAsJsonDeserialzier;
 
+/**
+ * Description: <br>
+ *
+ * @author xwc1125 <br>
+ * @date 2019-01-04  11:08 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
+ */
 @JsonIgnoreProperties(
         ignoreUnknown = true
 )

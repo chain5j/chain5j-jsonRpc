@@ -9,8 +9,9 @@ import java.util.concurrent.CompletableFuture;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  11:15 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 public class RemoteCall<T> {
     private Callable<T> callable;

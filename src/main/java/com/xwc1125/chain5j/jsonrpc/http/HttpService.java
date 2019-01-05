@@ -18,8 +18,9 @@ import java.util.Map;
  * Description: <br>
  *
  * @author xwc1125 <br>
- * @Copyright: Copyright (c) 2019 <br>
  * @date 2019-01-04  11:23 <br>
+ * <p>
+ * Copyright (c) 2019 <br>
  */
 @Slf4j
 public class HttpService extends Service {
