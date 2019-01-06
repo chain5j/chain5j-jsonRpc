@@ -5,7 +5,7 @@
 
     <groupId>com.xwc1125.chain5j</groupId>
     <artifactId>chain5j-jsonrpc</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>chain5j-jsonRpc</name>
