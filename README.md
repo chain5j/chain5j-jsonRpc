@@ -10,14 +10,14 @@
 <dependency>
   <groupId>com.xwc1125.chain5j</groupId>
   <artifactId>chain5j-jsonrpc</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
 * Gradle:
 
 ```
-implementation 'com.xwc1125.chain5j:chain5j-jsonrpc:1.0.0'
+implementation 'com.xwc1125.chain5j:chain5j-jsonrpc:1.0.1'
 ```
 
 ## 示例代码
